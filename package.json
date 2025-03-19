@@ -9,20 +9,20 @@
     "import": "node ./contentful/import.js"
   },
   "dependencies": {
-    "markdown-to-jsx": "^7.4.7",
-    "next": "15.1.6",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "markdown-to-jsx": "^7.7.4",
+    "next": "15.2.3",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
   },
   "devDependencies": {
-    "@stackbit/cms-contentful": "^1.0.0",
-    "@stackbit/types": "^2.0.0",
-    "@tailwindcss/postcss": "^4.0.0",
-    "contentful-import": "^9.4.39",
-    "dotenv": "^16.4.5",
-    "eslint": "^8.57.1",
-    "eslint-config-next": "^15.0.0",
-    "postcss": "^8.5.1",
-    "tailwindcss": "^4.0.0"
+    "@stackbit/cms-contentful": "^1.0.33",
+    "@stackbit/types": "^2.1.14",
+    "@tailwindcss/postcss": "^4.0.14",
+    "contentful-import": "^9.4.91",
+    "dotenv": "^16.4.7",
+    "eslint": "^9.22.0",
+    "eslint-config-next": "^15.2.3",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.0.14"
   }
 }
